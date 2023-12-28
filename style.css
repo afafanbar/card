@@ -1,0 +1,94 @@
+.card1{
+    width:fit-content;
+    height: fit-content;
+    background-color:rgb(202, 174, 174);
+    text-align: center;
+    padding: 20px 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px auto;
+    display: inline-block;
+   border:solid ;
+   text-decoration:none ;
+   
+    box-sizing:border-box
+
+}
+
+.card1 h3{
+  
+    font-size: 20px;
+}
+
+
+.card1 a{
+   
+    text-decoration: none;
+}
+
+.parent .card{
+    background-color: rgb(202, 202, 218);
+    height:fit-content;
+    width:fit-content;
+    padding: 20px 20px;
+    margin: 0px auto;
+    border: solid rgb(119, 103, 103);
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.parent .card a{
+    text-decoration: none;
+}
+.card2{
+    background-color: white;
+    width: fit-content;
+    text-align: justify;
+    border-color: black;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px,10px;
+    border: solid;
+    
+}
+.parent .card2 p{
+    color: rgb(1, 4, 7);
+    background-color: burlywood;
+   border-radius: 0 50px 50px 0;
+    width: 120px;
+    text-align:left ;
+}
+.parent .card2 img{
+    text-align: center;
+}
+.parent .card2 a{
+    text-decoration: none;
+    color: black;
+    text-align: left;
+}
+ .payment {
+color: orange;
+ }
+
+ .card3{
+    width: 300px;
+    height:fit-content;
+    background-color:rgb(202, 174, 174);
+    text-align: center;
+    padding: 20px 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px auto;
+    display: inline-block;
+   border:solid ;
+   text-decoration:none ;
+ background-image:url(https://th.bing.com/th/id/OIP.IhGijgoVTEs0_4rPuUXboQHaE8?w=242&h=180&c=7&r=0&o=5&pid=1.7);
+    box-sizing:border-box
+
+ }
+ .parent .card3 a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: black;
+ }
+ 
